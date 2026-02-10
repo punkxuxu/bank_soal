@@ -2,14 +2,14 @@
 
 # 📚 BankSoal.id Engine
 
-![Bank Soal Banner](assets/banner.jpg)
+![Banner Bank Soal](assets/banner.png)
 
-**Platform Latihan Soal Digital Open-Source Terlengkap** *Generate website bank soal statis dengan Python, JSON, dan GitHub Pages.*
+**Platform Latihan Soal Digital Open-Source Terlengkap**
+*Generate website bank soal statis dengan Python, JSON, dan GitHub Pages.*
 
 [🌐 Buka Website](https://spacenet.my.id) · [🐞 Lapor Bug](https://github.com/DHEWAYY/bank_soal/issues)
 
 </div>
-
 ---
 
 ## 🔥 Fitur Utama
