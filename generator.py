@@ -188,8 +188,8 @@ def generate():
         if fname == "index.html":
              banner_html = """
              <div class="mb-8 rounded-xl overflow-hidden shadow-sm border border-gray-100 bg-white">
-                <img src="assets/bannerweb.png" alt="Bank Soal Digital" 
-                     width="800" height="300" 
+                <img src="assets/bannerweb.jpg" alt="Bank Soal Digital" 
+                     width="840" height="315" 
                      class="w-full h-auto object-cover" 
                      fetchpriority="high" decoding="sync">
              </div>
