@@ -183,11 +183,12 @@ def generate():
         desc = manual_desc if manual_desc else f"Kumpulan bank soal {title} terlengkap dan gratis."
         header = TEMPLATE_HEADER.format(TITLE=title, ADS_ID=ADSENSE_ID, SLOT_ID=SLOT_ID_HEADER, DESC=desc)
         
+        # LOGIKA BANNER BARU (PISAH FILE)
         banner_html = ""
         if fname == "index.html":
              banner_html = """
              <div class="mb-8 rounded-xl overflow-hidden shadow-sm border border-gray-100 bg-white">
-                <img src="assets/banner.png" alt="Bank Soal Digital" 
+                <img src="assets/bannerweb.png" alt="Bank Soal Digital" 
                      width="800" height="300" 
                      class="w-full h-auto object-cover" 
                      fetchpriority="high" decoding="sync">
